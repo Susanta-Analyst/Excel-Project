@@ -8,5 +8,5 @@ This projet includes Data Cleaning from the raw data and the cleaned data is sto
 
 Based on this "Worksheet" two new Worksheets have been created which are Pivot Table and Bike Sales Dashboard
 
-This Bike Sales Dashboard contains visualisations based on Bike purchases with respect to Average Income of Purchasers and Non purchasers Gender wise, Customer Age Brackets and Customers Commute.
+The Bike Sales Dashboard contains visualisations based on Bike purchases with respect to Average Income of Purchasers and Non purchasers Gender wise, Customer Age Brackets and Customers Commute.
 
