@@ -4,6 +4,8 @@
 
 ![image](https://github.com/Susanta-Analyst/Excel-Project/assets/165849794/073e0d49-2ca7-4b38-894d-2c8fbb421202)
 
+![image](https://github.com/Susanta-Analyst/Excel-Project/assets/165849794/82bb7319-bc3d-463b-9c36-a1d20ed96edd)
+
 Project on Excel has been done on raw data which has been extracted from a file named "Bike Dashborad Tutorial" (Downloaded from Alex -The Analyst Github)
 
 The raw file "Bike Dashborad Tutorial" contains only a single worksheet called bike_buyers.
