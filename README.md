@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Susanta-Analyst/Excel-Project/assets/165849794/a697eb5f-fd8d-4f32-8971-c357f0812d56)
 
-
+![image](https://github.com/Susanta-Analyst/Excel-Project/assets/165849794/073e0d49-2ca7-4b38-894d-2c8fbb421202)
 
 Project on Excel has been done on raw data which has been extracted from a file named "Bike Dashborad Tutorial" (Downloaded from Alex -The Analyst Github)
 
