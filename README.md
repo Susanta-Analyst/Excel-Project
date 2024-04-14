@@ -1,4 +1,4 @@
-![image](https://github.com/Susanta-Analyst/Excel-Project/assets/165849794/be890cd0-4c16-424c-8f3a-8aa7d2de5234)
+
 
 
  Project on Excel has been done on raw data which has been extracted from a file named "Bike Dashborad Tutorial" (Downloaded from Alex -The Analyst Github)
