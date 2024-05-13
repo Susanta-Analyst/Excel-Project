@@ -5,13 +5,13 @@
 ![image](https://github.com/Susanta-Analyst/Excel-Project/assets/165849794/073e0d49-2ca7-4b38-894d-2c8fbb421202)
 
 
-Project on Excel has been done on raw data which has been extracted from a file named "Bike Dashborad Tutorial" (Downloaded from Alex -The Analyst Github)
+Project on Excel has been done on raw data which has been extracted from a file named "Bike Dashboard Tutorial" (Downloaded from Alex -The Analyst Github)
 
-The raw file "Bike Dashborad Tutorial" contains only a single worksheet called bike_buyers.
+The raw file "Bike Dashboard Tutorial" contains only a single worksheet called bike_buyers.
 
 Additionally three new worksheets have been created which are Worksheet, Pivot Table and Dashboard
 
-This projet includes Data Cleaning from the raw data and the cleaned data is stored in a newly created "Worksheet"
+This project includes Data Cleaning from the raw data and the cleaned data is stored in a newly created "Worksheet"
 
 Based on this "Worksheet" two new Worksheets have been created which are Pivot Table and Bike Sales Dashboard
 
